@@ -1,9 +1,8 @@
 # Debug .NET with Cursor AI
 
-## Content
+## Debbuging on Windows
 
-- YouTube: <https://youtu.be/AV5fYL0GYkk>
-
+- Alterar o "DebugWithCursor" nos dois arquivos (launch.json) e (tasks.json) para o nome específico do novo projeto. 
 
 ## References
 

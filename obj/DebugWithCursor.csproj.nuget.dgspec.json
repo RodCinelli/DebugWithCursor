@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodap\\Desktop\\DebugWithCursor\\DebugWithCursor.csproj": {}
+    "C:\\Users\\rodap\\Documents\\GitHub\\DebugWithCursor\\DebugWithCursor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodap\\Desktop\\DebugWithCursor\\DebugWithCursor.csproj": {
+    "C:\\Users\\rodap\\Documents\\GitHub\\DebugWithCursor\\DebugWithCursor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodap\\Desktop\\DebugWithCursor\\DebugWithCursor.csproj",
+        "projectUniqueName": "C:\\Users\\rodap\\Documents\\GitHub\\DebugWithCursor\\DebugWithCursor.csproj",
         "projectName": "DebugWithCursor",
-        "projectPath": "C:\\Users\\rodap\\Desktop\\DebugWithCursor\\DebugWithCursor.csproj",
+        "projectPath": "C:\\Users\\rodap\\Documents\\GitHub\\DebugWithCursor\\DebugWithCursor.csproj",
         "packagesPath": "C:\\Users\\rodap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodap\\Desktop\\DebugWithCursor\\obj\\",
+        "outputPath": "C:\\Users\\rodap\\Documents\\GitHub\\DebugWithCursor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rodap\\AppData\\Roaming\\NuGet\\NuGet.Config"
