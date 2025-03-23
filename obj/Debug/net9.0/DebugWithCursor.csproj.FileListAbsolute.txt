@@ -1,0 +1,14 @@
+C:\Users\rodap\Desktop\DebugWithCursor\bin\Debug\net9.0\DebugWithCursor.exe
+C:\Users\rodap\Desktop\DebugWithCursor\bin\Debug\net9.0\DebugWithCursor.deps.json
+C:\Users\rodap\Desktop\DebugWithCursor\bin\Debug\net9.0\DebugWithCursor.runtimeconfig.json
+C:\Users\rodap\Desktop\DebugWithCursor\bin\Debug\net9.0\DebugWithCursor.dll
+C:\Users\rodap\Desktop\DebugWithCursor\bin\Debug\net9.0\DebugWithCursor.pdb
+C:\Users\rodap\Desktop\DebugWithCursor\obj\Debug\net9.0\DebugWithCursor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodap\Desktop\DebugWithCursor\obj\Debug\net9.0\DebugWithCursor.AssemblyInfoInputs.cache
+C:\Users\rodap\Desktop\DebugWithCursor\obj\Debug\net9.0\DebugWithCursor.AssemblyInfo.cs
+C:\Users\rodap\Desktop\DebugWithCursor\obj\Debug\net9.0\DebugWithCursor.csproj.CoreCompileInputs.cache
+C:\Users\rodap\Desktop\DebugWithCursor\obj\Debug\net9.0\DebugWithCursor.dll
+C:\Users\rodap\Desktop\DebugWithCursor\obj\Debug\net9.0\refint\DebugWithCursor.dll
+C:\Users\rodap\Desktop\DebugWithCursor\obj\Debug\net9.0\DebugWithCursor.pdb
+C:\Users\rodap\Desktop\DebugWithCursor\obj\Debug\net9.0\DebugWithCursor.genruntimeconfig.cache
+C:\Users\rodap\Desktop\DebugWithCursor\obj\Debug\net9.0\ref\DebugWithCursor.dll
